@@ -11,6 +11,13 @@ Right now I'm looking to join a company that would allow me to grow as a develop
 ## Technologies & Tools 🔨
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+
+
+
+
+
 <!--
 **campbehr/campbehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
