@@ -1,4 +1,4 @@
-[![Header]('../campbehr/assets/Github header.png' "Header")](https://huntercampbell.io/)
+[![Header](/assets/header-banner.png)](https://huntercampbell.io/)
 
 ### Hi there 👋
 
