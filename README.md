@@ -2,7 +2,7 @@
 
 # Hey there 🙋‍♂️
 
-My name is Hunter Campbell and I'm a web developer. I'm originally from South Carolina but I live in Baltimore, Maryland. To learn a little more about me visit my website at <a href="https://www.huntercampbell.io/">huntercampbell.io</a>
+My name is Hunter Campbell and I'm a web developer. I'm originally from South Carolina but I live in Baltimore, Maryland. To learn a little more about me visit my website at <a href="https://www.huntercampbell.io/">huntercampbell.io</a> or you can checkout my <a href="https://stackoverflow.com/users/13349924/hunter-campbell?tab=profile">StackOverflow</a> account!
 
 ## Looking for 🔭
 
