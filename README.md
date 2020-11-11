@@ -6,7 +6,7 @@ My name is Hunter Campbell and I'm a web developer. I'm originally from South Ca
 
 ## Looking for 🔭
 
-Right now I'm looking to join a company that would allow me to grow as a developer and collaborate with a team.
+Right now I'm looking to join a company that will challenge me and allow me to grow as a developer and collaborate with a team.
 
 ## Technologies & Tools 🔨
 
