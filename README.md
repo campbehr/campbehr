@@ -20,7 +20,7 @@ Right now I'm looking to join a company that will challenge me and allow me to g
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon_aws&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tool-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=red)
 
 
