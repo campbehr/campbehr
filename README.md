@@ -17,7 +17,7 @@ Right now I'm looking to join a company that will challenge me and allow me to g
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=yellow)
 
 
 
