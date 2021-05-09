@@ -8,7 +8,7 @@ My name is Hunter Campbell and I'm a web developer. I'm originally from South Ca
 
 Right now I'm looking to join a company that will challenge me and allow me to grow as a developer and collaborate with a team.
 
-## Technologies & Tools 🔨
+## Tools & Technologies 🔨 (grn>ylw>red)
 
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -20,7 +20,7 @@ Right now I'm looking to join a company that will challenge me and allow me to g
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tool-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=red)
 
 
