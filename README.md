@@ -16,12 +16,12 @@ Right now I'm looking to join a company that will challenge me and allow me to g
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tool-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=red)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/ExpressJS-informational?style=flat&logo=express&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=red)
 
 
 
