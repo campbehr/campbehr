@@ -1,4 +1,4 @@
-[![Header](/assets/header-banner.png)]
+![Header](/assets/header-banner.png)
 
 # Hey there 🙋‍♂️
 
