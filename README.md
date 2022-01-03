@@ -1,4 +1,4 @@
-![Header](/assets/github-header.png)
+![Header](/assets/github-header-3.png)
 
 # Hey there 🙋‍♂️
 
