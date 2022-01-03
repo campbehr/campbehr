@@ -1,6 +1,6 @@
 ![Header](/assets/github-header-3.png)
 
-# Hey there 🙋‍♂️
+# Hi 🙋‍♂️
 
 My name is Hunter Campbell and I'm a project manager and UI/UX developer. I'm originally from South Carolina but I live in Baltimore, MD. My hobbies include weightlifting, cooking, coding, and playing with my doggo, Maverick 🐺.
 
